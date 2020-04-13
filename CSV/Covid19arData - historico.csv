@@ -357,7 +357,7 @@ No se informas mas las provincias de los fallecidos, tuvimos que encontrar la ub
 9/04/2020,36,20,Argentina,Entre Ríos,,1891,2,79,0,,,,transmision comunitaria,,,,entre-rios
 9/04/2020,36,20,Argentina,Mendoza,,1893,2,79,0,,,,transmision comunitaria,,,,mendoza
 9/04/2020,36,20,Argentina,Tucumán,,1894,1,79,0,,,,transmision comunitaria,,,,tucuman
-9/04/2020,36,20,Argentina,Indeterminado,,1894,0,79,0,375,,,transmision comunitaria,,,,no-data
+9/04/2020,36,20,Argentina,Indeterminado,,1894,0,79,0,375,11385,13180,transmision comunitaria,,,,no-data
 10/04/2020,37,21,Argentina,Buenos Aires,,1913,19,80,1,,,,transmision comunitaria,,https://www.argentina.gob.ar/sites/default/files/10-04-20_reporte_vespertino_covid_19_0.pdf,,buenos-aires
 10/04/2020,37,21,Argentina,CABA,,1924,11,81,1,,,,transmision comunitaria,,https://www.argentina.gob.ar/sites/default/files/10-04-20_reporte_vespertino_covid_19_0.pdf,,capital-federal
 10/04/2020,37,21,Argentina,Chaco,,1929,5,81,0,,,,transmision comunitaria,,https://www.argentina.gob.ar/sites/default/files/10-04-20_reporte_vespertino_covid_19_0.pdf,,chaco

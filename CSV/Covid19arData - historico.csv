@@ -383,7 +383,7 @@ No se informas mas las provincias de los fallecidos, tuvimos que encontrar la ub
 11/04/2020,38,22,Argentina,Santiago del Estero,,2133,3,89,0,,,,transmision comunitaria,,,,santiago-del-estero
 11/04/2020,38,22,Argentina,Tierra del Fuego,,2141,8,89,0,,,,transmision comunitaria,,,,tierra-del-fuego
 11/04/2020,38,22,Argentina,Tucumán,,2142,1,89,0,,,,transmision comunitaria,,,,tucuman
-11/04/2020,38,22,Argentina,Indeterminado,,2142,0,89,0,,,,transmision comunitaria,,,,no-data
+11/04/2020,38,22,Argentina,Indeterminado,,2141,0,89,0,468,15016,17158,transmision comunitaria,,,,no-data
 12/04/2020,39,23,Argentina,Buenos Aires,,2169,28,93,4,,,,transmision comunitaria,,,,buenos-aires
 12/04/2020,39,23,Argentina,CABA,,2177,8,94,1,,,,transmision comunitaria,,,,capital-federal
 12/04/2020,39,23,Argentina,Chaco,,2178,1,94,0,,,,transmision comunitaria,,,,chaco

@@ -469,7 +469,7 @@ No se informas mas las provincias de los fallecidos, tuvimos que encontrar la ub
 18/04/2020,45,29,Argentina,Neuquén,,2833,3,132,0,,,,,,,,neuquen
 18/04/2020,45,29,Argentina,Río Negro,,2836,3,132,0,,,,,,,,rio-negro
 18/04/2020,45,29,Argentina,Santa Fe,,2839,3,132,0,,,,,,,,santa-fe
-18/04/2020,45,29,Argentina,Indeterminado,,2839,0,132,0,709,,,transmision comunitaria,,,,no-data
+18/04/2020,45,29,Argentina,Indeterminado,,2839,0,132,0,709,23449,26207,transmision comunitaria,,,,no-data
 19/04/2020,46,30,Argentina,Buenos Aires,,2887,48,132,0,,,,,,,,buenos-aires
 19/04/2020,46,30,Argentina,CABA,,2902,15,132,0,,,,,,,,capital-federal
 19/04/2020,46,30,Argentina,Chaco,,2907,5,133,1,,,,,,,,chaco

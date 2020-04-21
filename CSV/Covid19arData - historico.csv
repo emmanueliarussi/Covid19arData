@@ -395,3 +395,90 @@ No se informas mas las provincias de los fallecidos, tuvimos que encontrar la ub
 12/04/2020,39,23,Argentina,Santa Fe,,2204,3,95,0,,,,transmision comunitaria,,,,santa-fe
 12/04/2020,39,23,Argentina,Tierra del Fuego,,2208,4,95,0,,,,transmision comunitaria,,,,tierra-del-fuego
 12/04/2020,39,23,Argentina,Indeterminado,,2208,0,95,0,515,15924,18132,transmision comunitaria,,,,no-data
+13/04/2020,40,24,Argentina,Buenos Aires,,2237,29,96,1,,,,transmision comunitaria,,https://www.argentina.gob.ar/sites/default/files/14-04-20_reporte_matutino_covid_19.pdf,,buenos-aires
+13/04/2020,40,24,Argentina,CABA,,2247,10,97,1,,,,transmision comunitaria,,https://www.argentina.gob.ar/sites/default/files/14-04-20_reporte_matutino_covid_19.pdf,,capital-federal
+13/04/2020,40,24,Argentina,Chaco,,2250,3,97,0,,,,transmision comunitaria,,https://www.argentina.gob.ar/sites/default/files/14-04-20_reporte_matutino_covid_19.pdf,,chaco
+13/04/2020,40,24,Argentina,Córdoba,,2254,4,98,1,,,,transmision comunitaria,,https://www.argentina.gob.ar/sites/default/files/14-04-20_reporte_matutino_covid_19.pdf,,cordoba
+13/04/2020,40,24,Argentina,Corrientes,,2261,7,98,0,,,,transmision comunitaria,,https://www.argentina.gob.ar/sites/default/files/14-04-20_reporte_matutino_covid_19.pdf,,corrientes
+13/04/2020,40,24,Argentina,La Rioja,,2264,3,98,0,,,,transmision comunitaria,,https://www.argentina.gob.ar/sites/default/files/14-04-20_reporte_matutino_covid_19.pdf,,la-rioja
+13/04/2020,40,24,Argentina,Mendoza,Mendoza,2266,2,98,0,,,,transmision comunitaria,,https://www.argentina.gob.ar/sites/default/files/14-04-20_reporte_matutino_covid_19.pdf,,mendoza
+13/04/2020,40,24,Argentina,Neuquén,Loncopué,2268,2,98,0,,,,transmision comunitaria,,https://www.argentina.gob.ar/sites/default/files/14-04-20_reporte_matutino_covid_19.pdf,,neuquen
+13/04/2020,40,24,Argentina,Río Negro,,2271,3,98,0,,,,transmision comunitaria,,https://www.argentina.gob.ar/sites/default/files/14-04-20_reporte_matutino_covid_19.pdf,,rio-negro
+13/04/2020,40,24,Argentina,Santa Fe,Rafaela,2272,1,98,0,,,,transmision comunitaria,,https://www.santafe.gob.ar/index.php/web/content/download/257787/1357775/file/Parte%20MSSF%20Coronavirus%2013-04-2020%2019%20hs.pdf,,santa-fe
+13/04/2020,40,24,Argentina,Santa Fe,Rosario,2273,1,98,0,,,,transmision comunitaria,,https://www.santafe.gob.ar/index.php/web/content/download/257787/1357775/file/Parte%20MSSF%20Coronavirus%2013-04-2020%2019%20hs.pdf,,santa-fe
+13/04/2020,40,24,Argentina,Tierra del Fuego,Ushuaia,2277,4,98,0,,,,transmision comunitaria,,https://www.facebook.com/saludtdf,,tierra-del-fuego
+13/04/2020,40,24,Argentina,Indeterminado,,2277,0,98,0,559,17192,19469,transmision comunitaria,,,,no-data
+14/04/2020,41,25,Argentina,Buenos Aires,,2343,66,100,2,,,,,,https://www.argentina.gob.ar/sites/default/files/15-04-20_reporte-matutino-covid-19.pdf,,buenos-aires
+14/04/2020,41,25,Argentina,CABA,,2365,22,105,5,,,,,,https://www.argentina.gob.ar/sites/default/files/15-04-20_reporte-matutino-covid-19.pdf,,capital-federal
+14/04/2020,41,25,Argentina,Chaco,,2396,31,106,1,,,,,,https://www.argentina.gob.ar/sites/default/files/15-04-20_reporte-matutino-covid-19.pdf,,chaco
+14/04/2020,41,25,Argentina,Córdoba,,2408,12,107,1,,,,,,https://www.argentina.gob.ar/sites/default/files/15-04-20_reporte-matutino-covid-19.pdf,,cordoba
+14/04/2020,41,25,Argentina,Corrientes,,2408,0,107,0,,,,,,https://www.argentina.gob.ar/sites/default/files/15-04-20_reporte-matutino-covid-19.pdf,se quita 1 caso confirmado en el parte del 15/4/2020,corrientes
+14/04/2020,41,25,Argentina,La Rioja,,2414,6,108,1,,,,,,https://www.argentina.gob.ar/sites/default/files/15-04-20_reporte-matutino-covid-19.pdf,,la-rioja
+14/04/2020,41,25,Argentina,Mendoza,Mendoza,2417,3,108,0,,,,,,https://www.argentina.gob.ar/sites/default/files/15-04-20_reporte-matutino-covid-19.pdf,,mendoza
+14/04/2020,41,25,Argentina,Neuquén,Las Lajas,2419,2,108,0,,,,,,https://www.argentina.gob.ar/sites/default/files/15-04-20_reporte-matutino-covid-19.pdf,,neuquen
+14/04/2020,41,25,Argentina,Río Negro,,2432,13,109,1,,,,,,https://www.argentina.gob.ar/sites/default/files/15-04-20_reporte-matutino-covid-19.pdf,,rio-negro
+14/04/2020,41,25,Argentina,Santa Fe,Roldán,2433,1,109,0,,,,,,https://www.santafe.gob.ar/index.php/web/content/download/257795/1357808/file/Parte%20MSSF%20Coronavirus%2014-04-2020%2019%20hs.pdf,,santa-fe
+14/04/2020,41,25,Argentina,Santa Fe,Oliveros,2434,1,109,0,,,,,,https://www.santafe.gob.ar/index.php/web/content/download/257795/1357808/file/Parte%20MSSF%20Coronavirus%2014-04-2020%2019%20hs.pdf,,santa-fe
+14/04/2020,41,25,Argentina,Tierra del Fuego,Ushuaia,2436,2,109,0,,,,,,https://www.facebook.com/saludtdf,,tierra-del-fuego
+14/04/2020,41,25,Argentina,Tierra del Fuego,Malvinas,2442,6,109,0,,,,,,https://www.facebook.com/saludtdf,,tierra-del-fuego
+14/04/2020,41,25,Argentina,Indeterminado,,2442,0,109,0,596,18428,20871,transmision comunitaria,,,,no-data
+15/04/2020,42,26,Argentina,Buenos Aires,,2504,62,112,3,,,,,,https://www.argentina.gob.ar/sites/default/files/15-04-20_reporte-matutino-covid-19.pdf,,buenos-aires
+15/04/2020,42,26,Argentina,CABA,,2534,30,114,2,,,,,,https://www.argentina.gob.ar/sites/default/files/15-04-20_reporte-matutino-covid-19.pdf,,capital-federal
+15/04/2020,42,26,Argentina,Chaco,,2541,7,114,0,,,,,,https://www.argentina.gob.ar/sites/default/files/15-04-20_reporte-matutino-covid-19.pdf,,chaco
+15/04/2020,42,26,Argentina,Chubut,,2542,1,114,0,,,,,,https://www.argentina.gob.ar/sites/default/files/15-04-20_reporte-matutino-covid-19.pdf,,chubut
+15/04/2020,42,26,Argentina,Córdoba,,2548,6,115,1,,,,,,https://www.argentina.gob.ar/sites/default/files/15-04-20_reporte-matutino-covid-19.pdf,,cordoba
+15/04/2020,42,26,Argentina,La Rioja,,2551,3,115,0,,,,,,https://www.argentina.gob.ar/sites/default/files/15-04-20_reporte-matutino-covid-19.pdf,,la-rioja
+15/04/2020,42,26,Argentina,Mendoza,Malargüe,2552,1,115,0,,,,,,https://www.argentina.gob.ar/sites/default/files/15-04-20_reporte-matutino-covid-19.pdf,,mendoza
+15/04/2020,42,26,Argentina,Neuquén,Neuquén,2553,1,115,0,,,,,,https://www.neuqueninforma.gob.ar/coronavirus-nuevo-comunicado-del-comite-de-emergencia-provincial-15-04-2020-2000/,,neuquen
+15/04/2020,42,26,Argentina,Río Negro,,2565,12,115,0,,,,,,https://www.argentina.gob.ar/sites/default/files/15-04-20_reporte-matutino-covid-19.pdf,,rio-negro
+15/04/2020,42,26,Argentina,Salta,,2565,0,115,0,,,,,,https://www.argentina.gob.ar/sites/default/files/15-04-20_reporte-matutino-covid-19.pdf,se quita 1 caso confirmado en el parte del 16/4/2020,salta
+15/04/2020,42,26,Argentina,Santa Fe,Rosario,2566,1,115,0,,,,,,https://www.santafe.gob.ar/index.php/web/content/download/257799/1357821/file/Parte%20MSSF%20Coronavirus%2015-04-2020%2019%20hs%20(1).pdf,,santa-fe
+15/04/2020,42,26,Argentina,Santa Fe,Cayastá,2567,1,115,0,,,,,,https://www.santafe.gob.ar/index.php/web/content/download/257799/1357821/file/Parte%20MSSF%20Coronavirus%2015-04-2020%2019%20hs%20(1).pdf,,santa-fe
+15/04/2020,42,26,Argentina,Tierra del Fuego,Ushuaia,2570,3,115,0,,,,,,https://www.facebook.com/saludtdf,,tierra-del-fuego
+15/04/2020,42,26,Argentina,Indeterminado,,2570,0,115,0,631,20172,22743,transmision comunitaria,,,,no-data
+16/04/2020,43,27,Argentina,Buenos Aires,,2600,30,118,3,,,,,,,,buenos-aires
+16/04/2020,43,27,Argentina,CABA,,2615,15,120,2,,,,,,,,capital-federal
+16/04/2020,43,27,Argentina,Chaco,,2626,11,121,1,,,,,,,,chaco
+16/04/2020,43,27,Argentina,Chubut,,2627,1,121,0,,,,,,,se quita 1 caso confirmado en el parte del 17/4/2020,chubut
+16/04/2020,43,27,Argentina,Córdoba,,2640,13,121,0,,,,,,,,cordoba
+16/04/2020,43,27,Argentina,Entre Ríos,,2641,1,121,0,,,,,,,,entre-rios
+16/04/2020,43,27,Argentina,La Rioja,,2644,3,121,0,,,,,,,,la-rioja
+16/04/2020,43,27,Argentina,Mendoza,,2649,5,122,1,,,,,,,,mendoza
+16/04/2020,43,27,Argentina,Neuquén,,2650,1,122,0,,,,,,,,neuquen
+16/04/2020,43,27,Argentina,Río Negro,,2659,9,122,0,,,,,,,,rio-negro
+16/04/2020,43,27,Argentina,Santa Fe,Rosario,2662,3,122,0,,,,,,,,santa-fe
+16/04/2020,43,27,Argentina,Tierra del Fuego,Ushuaia,2669,7,122,0,,,,,,,,tierra-del-fuego
+16/04/2020,43,27,Argentina,Indeterminado,,2669,0,122,0,666,21819,24488,transmision comunitaria,,,,no-data
+17/04/2020,44,28,Argentina,Buenos Aires,,2703,34,125,3,,,,,,,,buenos-aires
+17/04/2020,44,28,Argentina,CABA,,2717,14,126,1,,,,,,,,capital-federal
+17/04/2020,44,28,Argentina,Chaco,,2739,22,126,0,,,,,,,,chaco
+17/04/2020,44,28,Argentina,Córdoba,,2745,6,126,0,,,,,,,,cordoba
+17/04/2020,44,28,Argentina,La Rioja,,2746,1,127,1,,,,,,,,la-rioja
+17/04/2020,44,28,Argentina,Mendoza,,2747,1,129,2,,,,,,,,mendoza
+17/04/2020,44,28,Argentina,Misiones,San Vicente,2748,1,129,0,,,,,,,,misiones
+17/04/2020,44,28,Argentina,Neuquén,,2749,1,129,0,,,,,,,,neuquen
+17/04/2020,44,28,Argentina,Río Negro,,2750,1,129,0,,,,,,,,rio-negro
+17/04/2020,44,28,Argentina,Santa Fe,,2756,6,129,0,,,,,,,,santa-fe
+17/04/2020,44,28,Argentina,Tierra del Fuego,,2758,2,129,0,,,,,,,,tierra-del-fuego
+17/04/2020,44,28,Argentina,Indeterminado,,2758,0,129,0,685,23449,26207,transmision comunitaria,,,,no-data
+18/04/2020,45,29,Argentina,Buenos Aires,,2789,31,131,2,,,,,,,,buenos-aires
+18/04/2020,45,29,Argentina,CABA,,2803,14,132,1,,,,,,,,capital-federal
+18/04/2020,45,29,Argentina,Chaco,,2827,24,132,0,,,,,,,,chaco
+18/04/2020,45,29,Argentina,Córdoba,,2829,2,132,0,,,,,,,,cordoba
+18/04/2020,45,29,Argentina,Misiones,,2830,1,132,0,,,,,,,,misiones
+18/04/2020,45,29,Argentina,Neuquén,,2833,3,132,0,,,,,,,,neuquen
+18/04/2020,45,29,Argentina,Río Negro,,2836,3,132,0,,,,,,,,rio-negro
+18/04/2020,45,29,Argentina,Santa Fe,,2839,3,132,0,,,,,,,,santa-fe
+18/04/2020,45,29,Argentina,Indeterminado,,2839,0,132,0,709,,,transmision comunitaria,,,,no-data
+19/04/2020,46,30,Argentina,Buenos Aires,,2887,48,132,0,,,,,,,,buenos-aires
+19/04/2020,46,30,Argentina,CABA,,2902,15,132,0,,,,,,,,capital-federal
+19/04/2020,46,30,Argentina,Chaco,,2907,5,133,1,,,,,,,,chaco
+19/04/2020,46,30,Argentina,Chubut,,2908,1,133,0,,,,,,,,chubut
+19/04/2020,46,30,Argentina,Córdoba,,2919,11,133,0,,,,,,,,cordoba
+19/04/2020,46,30,Argentina,La Rioja,,2923,4,133,0,,,,,,,,la-rioja
+19/04/2020,46,30,Argentina,Mendoza,,2926,3,134,1,,,,,,,,mendoza
+19/04/2020,46,30,Argentina,Neuquén,,2929,3,134,0,,,,,,,,neuquen
+19/04/2020,46,30,Argentina,Río Negro,,2937,8,134,0,,,,,,,,rio-negro
+19/04/2020,46,30,Argentina,Santa Fe,,2938,1,134,0,,,,,,,,santa-fe
+19/04/2020,46,30,Argentina,Tierra del Fuego,,2941,3,134,0,,,,,,,,tierra-del-fuego
+
